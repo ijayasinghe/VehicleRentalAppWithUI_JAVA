@@ -1,0 +1,20 @@
+CAR
+Toyota Yaris
+2020
+50.00
+SMALL
+CAR
+Hyundai Sonata
+2022
+79.00
+MEDIUM
+TRUCK
+Ford F150
+2019
+129.00
+12000
+CAR
+Mercedes S600
+2023
+250.00
+LARGE
